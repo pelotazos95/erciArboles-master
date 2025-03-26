@@ -6,8 +6,8 @@ def connect():
         dbname="jardin",
         user="postgres",
         password="1234",
-        host="192.168.186.130",
-        port="5433"
+        host="192.160.51.156",
+        port="5432"
     )
     return conn
 
